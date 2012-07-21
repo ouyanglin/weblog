@@ -20,3 +20,4 @@ doc/
 *~
 .project
 .idea
+bundler_stubs/
